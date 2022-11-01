@@ -1,0 +1,6 @@
+address,domains,first_seen,hostname,ip_version,known,last_seen,name,online,risk_score
+2600:3c01::f03c:91ff:fe18:bb2f,scanme.nmap.org,2022-08-08T13:50:38.480576Z,,6,False,2022-08-08T13:50:38.480576Z,scanme.nmap.org,False,
+2600:3c01:e000:3e6::6d4e:7061,"ack.nmap.org,www.nmap.org,issues.nmap.org,nmap.org,svn.nmap.org",2022-08-08T13:50:38.480576Z,ack.nmap.org,6,False,2022-08-08T13:50:38.480576Z,nmap.org,False,
+45.33.32.156,scanme.nmap.org,2022-08-08T13:50:38.480576Z,,4,False,2022-08-08T13:50:38.480576Z,scanme.nmap.org,True,11.20708139054855
+45.33.49.119,"ack.nmap.org,www.nmap.org,issues.nmap.org,nmap.org,svn.nmap.org",2022-08-08T13:50:38.480576Z,ack.nmap.org,4,False,2022-08-08T13:50:38.480576Z,nmap.org,True,99.99
+1.2.3.4,foo.bar,,,4,True,,foo.bar,False,
